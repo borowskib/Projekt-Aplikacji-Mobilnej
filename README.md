@@ -18,6 +18,7 @@ b) **Świat Jaskiń** - kamień </br>
 c) **Świat Kopalni** - złoto i diament</br>
 - **Handlarz** - możliwa wymiana surowców (Przykład: **100 drewna** => **1000 złota**, **1 diament** => **1000 złota / 100 drewna / 100 kamienia**)
 - **Sklep** - ulepszenia przedmiotów (Przykład: *Drewniany Kilof (**Poziom 1**) => Drewniany Kilof (**Poziom 2**) = 100 złota / 50 drewna*)
+- **Animacje** - rozłupywane skały, wylatujące monety
 
 ## 3. Informacje i wykonanie
 
@@ -26,12 +27,14 @@ c) **Świat Kopalni** - złoto i diament</br>
 **Język programowania:** _Java_ </br>
 **Rodzaj aplikacji:** _Gra_ </br>
 **Typ:** _Clicker_ </br>
-**Rodzaj gry:** _Aktywna_ </br>
+**Rodzaj gry (*):** _Aktywna_ </br>
 **Orientacja ekranu:** _Wertykalna_ </br>
 **Największy atut:** _Zbilansowany system wydobycia i ulepszenia_ </br>
 **Grafiki:** _Autorskie_
 
+* _Rodzaj gry: Aktywna- Wydobycie możliwe tylko podczas działania aplikacji, nie działa w tle._
+
 ## 4. Autor
 
-Bartłomiej Borowski
+Bartłomiej Borowski </br>
 *6 semestr, 3 rok - Informatyka Stosowana i Systemy Pomiarowe*
