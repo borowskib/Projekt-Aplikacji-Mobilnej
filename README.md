@@ -12,10 +12,10 @@ Aplikacja Mobilna
 - Orientacja wertykalna
 - Dzięki klikaniu w ikonę materiału - **wydobywanie surowców**
 - Poprzez przewijanie ekranu - **zmiana aktualnego świata**
-- Wydobywany **surowiec zależny od świata**:
-a) **Świat Lasu** - drewno </br>  
-b) **Świat Jaskiń** - kamień </br>  
-c) **Świat Kopalni** - złoto i diament</br>  
+- Wydobywany **surowiec zależny od świata**:</br>
+a) **Świat Lasu** - drewno </br>
+b) **Świat Jaskiń** - kamień </br>
+c) **Świat Kopalni** - złoto i diament</br>
 - **Handlarz** - możliwa wymiana surowców (Przykład: **100 drewna** => **1000 złota**, **1 diament** => **1000 złota / 100 drewna / 100 kamienia**)
 - **Sklep** - ulepszenia przedmiotów (Przykład: *Drewniany Kilof (**Poziom 1**) => Drewniany Kilof (**Poziom 2**) = 100 złota / 50 drewna*)
 
@@ -31,7 +31,7 @@ c) **Świat Kopalni** - złoto i diament</br>
 **Największy atut:** _Zbilansowany system wydobycia i ulepszenia_
 **Grafiki:** _Autorskie_
 
-## 3. Autor
+## 4. Autor
 
 Bartłomiej Borowski
 *6 semestr, 3 rok - Informatyka Stosowana i Systemy Pomiarowe*
