@@ -32,7 +32,7 @@ c) **Świat Kopalni** - złoto i diament</br>
 **Największy atut:** _Zbilansowany system wydobycia i ulepszenia_ </br>
 **Grafiki:** _Autorskie_
 
-* _Rodzaj gry: Aktywna- Wydobycie możliwe tylko podczas działania aplikacji, nie działa w tle._
+* _Rodzaj gry: Aktywna - Wydobycie możliwe tylko podczas działania aplikacji, nie działa w tle._
 
 ## 4. Autor
 
