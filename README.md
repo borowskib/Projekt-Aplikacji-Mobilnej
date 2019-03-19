@@ -21,14 +21,14 @@ c) **Świat Kopalni** - złoto i diament</br>
 
 ## 3. Informacje i wykonanie
 
-**Wykonanie:** _Android Studio_
-**Wersja androida:** _6.0 +_
-**Język programowania:** _Java_
-**Rodzaj aplikacji:** _Gra_
-**Typ:** _Clicker_
-**Rodzaj gry:** _Aktywna_
-**Orientacja ekranu:** _Wertykalna_
-**Największy atut:** _Zbilansowany system wydobycia i ulepszenia_
+**Wykonanie:** _Android Studio_ </br>
+**Wersja androida:** _6.0 +_ </br>
+**Język programowania:** _Java_ </br>
+**Rodzaj aplikacji:** _Gra_ </br>
+**Typ:** _Clicker_ </br>
+**Rodzaj gry:** _Aktywna_ </br>
+**Orientacja ekranu:** _Wertykalna_ </br>
+**Największy atut:** _Zbilansowany system wydobycia i ulepszenia_ </br>
 **Grafiki:** _Autorskie_
 
 ## 4. Autor
