@@ -27,7 +27,7 @@ c) **Świat Kopalni** - złoto i diament</br>
 **Język programowania:** _Java_ </br>
 **Rodzaj aplikacji:** _Gra_ </br>
 **Typ:** _Clicker_ </br>
-**Rodzaj gry (*):** _Aktywna_ </br>
+**Rodzaj gry:** _Aktywna_ </br>
 **Orientacja ekranu:** _Wertykalna_ </br>
 **Największy atut:** _Zbilansowany system wydobycia i ulepszenia_ </br>
 **Grafiki:** _Autorskie_
