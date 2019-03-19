@@ -13,9 +13,9 @@ Aplikacja Mobilna
 - Dzięki klikaniu w ikonę materiału - **wydobywanie surowców**
 - Poprzez przewijanie ekranu - **zmiana aktualnego świata**
 - Wydobywany **surowiec zależny od świata**:
-a) **Świat Lasu** - drewno </ br>
-b) **Świat Jaskiń** - kamień </ br>
-c) **Świat Kopalni** - złoto i diament
+a) **Świat Lasu** - drewno </br>  
+b) **Świat Jaskiń** - kamień </br>  
+c) **Świat Kopalni** - złoto i diament</br>  
 - **Handlarz** - możliwa wymiana surowców (Przykład: **100 drewna** => **1000 złota**, **1 diament** => **1000 złota / 100 drewna / 100 kamienia**)
 - **Sklep** - ulepszenia przedmiotów (Przykład: *Drewniany Kilof (**Poziom 1**) => Drewniany Kilof (**Poziom 2**) = 100 złota / 50 drewna*)
 
